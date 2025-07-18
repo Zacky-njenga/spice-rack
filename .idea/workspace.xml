@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7c0bce48-d97b-4faf-8ebe-19259d3ae805" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/frontend/components/NavBar.jsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/frontend/pages/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spicerack-frontend/components/ProductCard..jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/spicerack-frontend/pages/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +17,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Python Script" />
         <option value="JSX File" />
         <option value="JavaScript File" />
       </list>
@@ -24,21 +26,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Zacky-njenga"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Zacky-njenga&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Zacky-njenga/spice-rack.git",
-    "accountId": "8a482350-5e34-46fa-8250-984cf4d17cc2"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Zacky-njenga/spice-rack.git&quot;,
+    &quot;accountId&quot;: &quot;8a482350-5e34-46fa-8250-984cf4d17cc2&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 6
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
   <component name="ProjectId" id="303LaH8r0Qud4KiB2r7G9Pkwsst" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -53,12 +55,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
+    "last_opened_file_path": "D:/SelfLearning/spice-rack",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "settings.editor.selected.configurable": "editing.templates",
     "ts.external.directory.path": "D:\\SelfLearning\\spice-rack\\frontend\\node_modules\\typescript\\lib",
     "vue.rearranger.settings.migration": "true"
   }
@@ -104,6 +107,7 @@
       <option name="presentableId" value="Default" />
       <updated>1752851390486</updated>
       <workItem from="1752851392778" duration="4211000" />
+      <workItem from="1752855963137" duration="7205000" />
     </task>
     <servers />
   </component>
